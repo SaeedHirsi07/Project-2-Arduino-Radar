@@ -8,7 +8,7 @@ Built as a first foray into embedded systems and creative coding — no prior C/
 
 ## Demo
 
-![Demo](assets/demo.gif)
+![Demo](ScreenRecording2026-06-28at10.42.58pm-ezgif.com-video-to-gif-converter.gif)
 
 ---
 
